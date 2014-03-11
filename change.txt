@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Change this file...
 
 Hi Jonathan,
